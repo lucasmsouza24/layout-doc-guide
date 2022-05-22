@@ -1,0 +1,7 @@
+00NOTA2022122-05-2022 15:20:4901
+02ADS  01211000Aleff Stampini                                    Estrutura de Dados                      09,00010
+02ADS  01211010Bianca Silva                                      Programação WEB                         09,50007
+02CCO  02211020José Sousa                                        Cálculo Computacional                   07,00012
+02SIS  03221000Ana Teixeira                                      Banco de Dados                          08,50008
+02REDES04221030Mario Bros                                        Segurança                               06,00020
+010000000005
